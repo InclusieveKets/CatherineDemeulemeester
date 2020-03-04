@@ -32,12 +32,12 @@ You can find me on [Facebook](https://www.facebook.com/damncath)
 
 ### Stuff i strongly believe in 
 
-<iframe src="https://player.vimeo.com/video/393253445?color=000000&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/393253445?autoplay=1&color=000000&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/393253445">Be a Lady They Said</a> from <a href="https://vimeo.com/user48031317">Paul McLean</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Stuff i would like to make
 
-<iframe width="560" height="315" src="https://youtu.be/lXe4WExMyeM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lXe4WExMyeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

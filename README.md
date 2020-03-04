@@ -27,7 +27,7 @@ You can find me on [Facebook](https://www.facebook.com/damncath)
 
 ## Where i spend my weekends
 
-![Fformatt](../images/for-grid2.png)
+![Fformatt](../Images/for-grid2.png)
 
 
 ### Stuff i strongly believe in 
@@ -38,8 +38,7 @@ You can find me on [Facebook](https://www.facebook.com/damncath)
 ### Stuff i would like to make
 
 "https://www.youtube.com/embed/lXe4WExMyeM"
-<a href="https://www.youtube.com/embed/lXe4WExMyeM
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 
 

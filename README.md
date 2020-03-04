@@ -27,7 +27,7 @@ You can find me on [Facebook](https://www.facebook.com/damncath)
 
 ## Where i spend my weekends
 
-![](../images/for-grid2.jpg)
+![Fformatt](../images/for-grid2.png)
 
 
 ### Stuff i strongly believe in 

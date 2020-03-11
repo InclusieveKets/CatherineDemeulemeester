@@ -1,14 +1,18 @@
 # Boilerplate Basic website
+
 ## made in html/css
-## Make shure you have a 
+
+## Make shure you have a
+
 1. Bio
 2. Image
 3. Link
+
 # 1. Day 1
 
 Get a full intrioduction of github
 
-## tasks: 
+## tasks
 
 - create a full readme file with mark down
 - inclusif images
@@ -23,22 +27,15 @@ You can find me on [Facebook](https://www.facebook.com/damncath)
 
 ## Code Example
 
-
-
 ## Where i spend my weekends
 
 ![Fformatt](\Fabzero\Images)
 
-
-### Stuff i strongly believe in 
+### Stuff i strongly believe in
 
 <iframe src="https://player.vimeo.com/video/393253445?autoplay=1&color=000000&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/393253445">Be a Lady They Said</a> from <a href="https://vimeo.com/user48031317">Paul McLean</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/393253445">Be a Lady They Said</a> from <a href="https://vimeo.com/user48031317">Paul McLean</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 ### Stuff i would like to make
 
 "https://www.youtube.com/embed/lXe4WExMyeM"
-
-
-
-

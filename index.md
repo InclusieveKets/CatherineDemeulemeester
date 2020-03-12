@@ -1,7 +1,4 @@
-### Welcome to my FabZero page!
-
-
-
+### Welcome to my FabZero page
 
 ### Assignments Documentation
 

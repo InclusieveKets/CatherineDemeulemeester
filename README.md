@@ -1,42 +1,7 @@
-# Boilerplate Basic website
+## Welcome to your new FabZero site
 
-## made in html/css
-
-## Make shure you have a
-
-1. Bio
-2. Image
-3. Link
-
-# 1. Day 1
-
-Get a full intrioduction of github
-
-## tasks
-
-- create a full readme file with mark down
-- inclusif images
-- Inclusief link
-You can find me on [Facebook](https://www.facebook.com/damncath)
-
-## Useful links
-
-- [Jekyll](http://jekyll.org)
-- [Google](http://google.com)
-- [Markdown](https://en.wikipedia.org/wiki/Markdown)
-
-## Code Example
-
-## Where i spend my weekends
-
-![Fformatt](\Fabzero\Images)
-
-### Stuff i strongly believe in
-
-<iframe src="https://player.vimeo.com/video/393253445?autoplay=1&color=000000&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
-</iframe>
-<p><a href="https://vimeo.com/393253445">Be a Lady They Said</a> from <a href="https://vimeo.com/user48031317">Paul McLean</a> on <a href="https://vimeo.com">Vimeo</a>.
-
-### Stuff i would like to make
-
-"https://www.youtube.com/embed/lXe4WExMyeM"
+- This website is built automatically by gitlab every time you edit the files in the docs folder
+- It does so thanks to [Mkdocs](https://mkdocs.org) a static site generator written in Python
+- You must start customizing the file mkdocs.yml with your information
+- You can change the looks of your website using mkdocs themes, you can find in the mkdocs.yml the names of the available themes
+- If you want to start from scratch, you can delete everything in this repository and push any other static website

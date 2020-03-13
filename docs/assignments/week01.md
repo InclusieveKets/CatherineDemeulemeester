@@ -3,8 +3,6 @@
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 Also create all basic designs for lazercut. And prepare all test paterns to trie in the open lab.
 
-
-
 ## Research
 
 Project ideas's:

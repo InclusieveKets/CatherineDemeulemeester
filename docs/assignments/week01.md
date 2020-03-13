@@ -1,19 +1,25 @@
 # 1. Principles and practices
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
+Also create all basic designs for lazercut. And prepare all test paterns to trie in the open lab.
+
+
 
 ## Research
-some sites where you can collect ideas on  lazercutting projects.
 
-
-
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Project ideas's:
+> - Podcast material: 3D printed microphone arm / Lazer cutted 'On air' sign / 
+> - Abstract head wall
+> - lazercutted wood lamp
+> - Lazercutted Masala keychain
+> - lazercut laptopstand with cooling
 
 ## Useful links
 
-- [Jekyll](http://jekyll.org)
-- [Google](http://google.com)
-- [Markdown](https://en.wikipedia.org/wiki/Markdown)
+- [Instructables](https://www.instructables.com)
+- [De Creatieve Stem](http://decreatievestem.be/projecten)
+- [More inspiration here!](https://www.thingiverse.com)
+- [Emiel, The practical engeneer](https://thepracticalengineer.com/)
 
 ## Code Example
 

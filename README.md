@@ -40,15 +40,15 @@ General Repo for participants of the Fabzero project and Fabzero bootcamp
 
 [Week6](./Week6)
 
-### Week7
+### Week 7
 
 [Week7](./Week7)
 
-### Week8
+### Week 8
 
 [Week8](./Week8)
 
-### Week9
+### Week 9
 
 [Week9](./Week9)
 

@@ -18,11 +18,11 @@ General Repo for participants of the Fabzero project and Fabzero bootcamp
 
 ### Week 1
 
-[Week1](../Week1)
+[Week1](./Week1)
 
 ### Week 2
 
-[Week2](../Week2)
+[Week2](./Week2)
 
 ### Week 3
 
@@ -73,5 +73,5 @@ General Repo for participants of the Fabzero project and Fabzero bootcamp
 [Week14](./Week14)
 
 ### Week 15
-
+  
 [Week15](./Week15)

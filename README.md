@@ -1,10 +1,12 @@
-## FabZero Algemeen
+## FabZero algemeen
+
 General Repo for participants of the Fabzero project and Fabzero bootcamp
 
 ## In this Repo you will find
+
 - Planning for FabZero 01
 - Planning for the Fabzero Bootcamp
--Class documentation on the course
+- Class documentation on the course
 
 ### Welcome to your new FabZero site
 

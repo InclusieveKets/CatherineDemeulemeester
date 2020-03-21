@@ -18,39 +18,39 @@ General Repo for participants of the Fabzero project and Fabzero bootcamp
 
 ### Week 1
 
-[Week1](./Week1)
+[Week01](./Week01)
 
 ### Week 2
 
-[Week2](./Week2)
+[Week02](./Week02)
 
 ### Week 3
 
-[Week3](./Week3)
+[Week03](./Week03)
 
 ### Week 4
 
-[Week4](./Week4)
+[Week04](./Week04)
 
 ### Week 5
 
-[Week5](./Week5)
+[Week05](./Week05)
 
 ### Week 6
 
-[Week6](./Week6)
+[Week06](./Week06)
 
 ### Week 7
 
-[Week7](./Week7)
+[Week07](./Week07)
 
 ### Week 8
 
-[Week8](./Week8)
+[Week08](./Week08)
 
 ### Week 9
 
-[Week9](./Week9)
+[Week09](./Week09)
 
 ### Week 10
 

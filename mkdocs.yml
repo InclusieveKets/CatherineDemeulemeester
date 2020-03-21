@@ -11,7 +11,7 @@ theme:
   # see https://squidfunk.github.io/mkdocs-material/getting-started/#color-palette
   palette:
     primary: "deep"
-    accent: "indigo"
+    accent: "teal"
   font:
     false
     # text: "Ubuntu"

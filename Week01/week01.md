@@ -4,7 +4,7 @@ Hi, I am Cath. Welcome to my page!
 
 I am super exited to be on this Fabzero makers journey.
 
-![Profile Images](assets/images/moi.jpg)
+![Profile Images](./images/moi.jpg)
 ---
 
 <dl>

@@ -1,56 +1,40 @@
-## FabZero algemeen
+## Welcome to my Fabzero site
 
-General Repo for participants of the Fabzero project and Fabzero bootcamp
+### Introduction
 
-## In this Repo you will find
+[Week 1](./Week01)
 
-- Planning for FabZero 01
-- Planning for the Fabzero Bootcamp
-- Class documentation on the course
+### Inkscape
 
-### Welcome to your new FabZero site
+[Week2](./Week02)
 
-- This website is built automatically by gitlab every time you edit the files in the docs folder
-- It does so thanks to [Mkdocs](https://mkdocs.org) a static site generator written in Python
-- You must start customizing the file mkdocs.yml with your information
-- You can change the looks of your website using mkdocs themes, you can find in the mkdocs.yml the names of the available themes
-- If you want to start from scratch, you can delete everything in this repository and push any other static website
+### 3D Printing
 
-### Week 1
+[Week3](./Week03)
 
-[Week1](./Week1)
+### Basic Electronica
 
-### Week 2
+[Week4](./Week04)
 
-[Week2](./Week2)
+### KICAD
 
-### Week 3
-
-[Week3](./Week3)
-
-### Week 4
-
-[Week4](./Week4)
-
-### Week 5
-
-[Week5](./Week5)
+[Week5](./Week05)
 
 ### Week 6
 
-[Week6](./Week6)
+[Week6](./Week06)
 
 ### Week 7
 
-[Week7](./Week7)
+[Week7](./Week07)
 
 ### Week 8
 
-[Week8](./Week8)
+[Week8](./Week08)
 
 ### Week 9
 
-[Week9](./Week9)
+[Week9](./Week09)
 
 ### Week 10
 

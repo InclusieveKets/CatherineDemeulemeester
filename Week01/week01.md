@@ -2,25 +2,29 @@
 
 Hi, I am Cath. Welcome to my page!
 
-I am super exited to be on this Fabzero makers journey.
+I am super exited to be on this Fabzero makers journey.💥
 
-![Profile Images](./images/moi.jpg)
----
+Facebook: [©aTh DaMn](https://www.facebook.com/damncath)🐱
+
+Instagram: [Damn Cathy](https://www.instagram.com/damncathy/)✌️
+
+![Profile Images](./Images/moi.jpg)
 
 <dl>
   <dt>Name:</dt>
-  <dd><em>De Meulemeeester Catherine</em></dd>
+  <dd><em>De Meulemeester Catherine</em></dd>
 
   <dt>Location:</dt>
   <dd><em>Ghent</em></dd>
   <dt>Passion:</dt>
   <dd><em>Web Development, Photography, Visual arts, Music.</em></dd>
+
 </dl>
 
 ## Week 1. Principles and practices
 
-This week I worked on defining my final project idea and started to getting used to the documentation process.
-Also create all basic designs for lazercut. And prepare all test paterns to trie in the open lab.
+This week I worked on defining my final project idea and got used to the documentation process.
+Also create some basic designs for lazer cut. And prepare all test patterns for the open lab.
 
 ## Research
 
@@ -47,3 +51,5 @@ if (sad() === true) {
    beAwesome();
 }
 ```
+
+[Go Back](../README.md)
